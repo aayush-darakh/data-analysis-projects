@@ -1,0 +1,13 @@
+static:
+	1) charts: .plot() : line, barplot, pie (note point related to each chart)
+	2) Box Plot (definition then rest od the things ) 
+	3) Histogram
+	4) Scatterplot
+	5) Matplotlib
+	6) Saving file and exporting
+
+interactive:
+	1) iplot and cufflinks library
+	2) interactive visualization
+	3) ignore 1 and use plotly.express
+		
